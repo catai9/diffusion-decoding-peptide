@@ -1,4 +1,4 @@
-# STAT 946 Project Code
+# Improving Amino Acid Recall in Peptide De Novo Sequencing Using Diffusion Decoders
 This code is an adapted version of casanovo (https://github.com/Noble-Lab/casanovo) with some code copied from the DINOISER repo (https://github.com/yegcjs/DINOISER/tree/main).
 
 ## Setup
